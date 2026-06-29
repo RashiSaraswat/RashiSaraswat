@@ -1,5 +1,5 @@
 ## Hi, I am Rashi Saraswat 👋
-- 🎓 B.Tech Computer Science student
+- 🎓 Final year B.Tech Computer Science student
 - 💻 Learning Web Development, DSA, and Software Engineering
 - 🌱 Currently exploring Flask, MySQL, and Full-Stack Development
 - 🚀 Building projects to improve my problem-solving and development skills
